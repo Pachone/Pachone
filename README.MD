@@ -1,4 +1,6 @@
-### Oda
+### 
+
+- 🎱 Oda
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pachone&&show_icons=true&hide_border=true&title_color=3399ff&icon_color=3399ff&text_color=fff&bg_color=0D1117&hide=prs">
 
